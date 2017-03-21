@@ -1,0 +1,15 @@
+programming
+school
+student
+chair
+desk
+average
+screen
+mouse
+window
+door
+english
+playsound
+include
+stage
+classic
