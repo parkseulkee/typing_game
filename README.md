@@ -16,7 +16,7 @@
 * 떨어지는 단어들을 파일 입출력을 통해 텍스트 파일에서 가져옴
 
 ## Source
-* util.h , util.c : 게임 틀을 그리기 위한 커서를 제어하는 함수와 단어의 속도를 제어하기위한 기본적인 시간함수
-* main.c : 게임의 모든 로직
+* 게임 틀을 그리기 위한 커서를 제어하는 함수와 단어의 속도를 제어하기위한 기본적인 시간함수 : [util.h](https://github.com/parkseulkee/typing_game/blob/master/util.h) , [util.c](https://github.com/parkseulkee/typing_game/blob/master/util.c)
+* [main.c](https://github.com/parkseulkee/typing_game/blob/master/main.c)
 
  
